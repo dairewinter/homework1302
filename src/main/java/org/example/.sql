@@ -174,7 +174,7 @@ WHERE id = 12;
 
 SELECT first_name, last_name, city_name
 FROM employee e
-         JOIN city c
+         LEFT JOIN city c
               ON e.city_id = c.city_id;
 
 INSERT INTO employee(first_name, last_name, gender, age, city_id)
@@ -182,5 +182,5 @@ VALUES ('Andrey', 'Bolkonsky', 'male', 30, null);
 
 SELECT city_name, first_name, last_name
 FROM city c
-         JOIN employee e
+         RIGHT JOIN employee e
               ON c.city_id = e.city_id;

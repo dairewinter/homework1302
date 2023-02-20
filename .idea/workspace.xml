@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75c4d861-b150-4fce-9448-1d77a97b1d4b" name="Changes" comment="дз">
+    <list default="true" id="75c4d861-b150-4fce-9448-1d77a97b1d4b" name="Changes" comment="дз2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676455450013</updated>
       <workItem from="1676455452199" duration="4748000" />
-      <workItem from="1676882961918" duration="625000" />
+      <workItem from="1676882961918" duration="2417000" />
     </task>
     <task id="LOCAL-00001" summary="дз">
       <created>1676636361779</created>
@@ -58,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676636361780</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="дз2">
+      <created>1676884922288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676884922288</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="дз" />
-    <option name="LAST_COMMIT_MESSAGE" value="дз" />
+    <MESSAGE value="дз2" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз2" />
   </component>
 </project>
